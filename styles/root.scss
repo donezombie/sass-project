@@ -1,0 +1,11 @@
+// Configs
+@import "variables/variables.scss";
+@import "mixins/mixins.scss";
+@import "atomic/atomic.scss";
+
+@import "reset.scss";
+@import "base.scss";
+
+// Components
+@import "components/button.scss";
+@import "components/typography.scss";

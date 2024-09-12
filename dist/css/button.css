@@ -1,0 +1,23 @@
+.button-primary {
+  background-color: var(--color-primary-500);
+  color: #fff;
+}
+.button-primary:hover {
+  background-color: var(--color-primary-600);
+}
+
+.button-tertiary {
+  background-color: var(--color-tertiary-500);
+  color: #fff;
+}
+.button-tertiary:hover {
+  background-color: var(--color-tertiary-600);
+}
+
+.button-red {
+  background-color: var(--color-red-500);
+  color: #fff;
+}
+.button-red:hover {
+  background-color: var(--color-red-600);
+}
